@@ -1,8 +1,5 @@
 /*
  * Program for Smart Blind Walking Stick Using Arduino and two Ultrasonic Sensors.
- * Code by ELECTRODUINO
- * Website: www.electroduino.com
- */
  
 int trigpin1 = 8; // Defines Tirg pins of the Ultrasonic Sensor 1
 int echopin1 = 7; // Defines Echo pins of the Ultrasonic Sensor 1
